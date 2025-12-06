@@ -92,6 +92,6 @@ Project ini dibuat untuk:
 
 <p align="center">
   <img src="app-preview/blogs-page.jpg" width="230">
-  <img src="app-preview/upload-new-blog" width="230">
+  <img src="app-preview/upload-new-blog.jpg" width="230">
 </p>
 >>>>>>> ff41c82fef40be05bf1443d91aad2c1bd49c398f

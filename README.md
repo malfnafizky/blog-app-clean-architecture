@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-# blog_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# YouTube
- - [Link](https://www.youtube.com/watch?v=ELFORM9fmss&list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO)
- - [Minutes](1:35:39)
-=======
 # 📘 Blog App — Clean Architecture
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter&logoColor=white)]()
@@ -32,8 +10,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Aplikasi **Blog App** yang dibangun menggunakan **Flutter**, menerapkan **Clean Architecture**, serta menggunakan **Supabase** sebagai backend (auth, database, dan storage).
 
-Project ini dibuat dengan mengikuti panduan dari channel YouTube **Rivaan Ranawat**:  
-👉 https://www.youtube.com/@RivaanRanawat
+Project ini dibuat dengan mengikuti panduan dari channel YouTube [![Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)]():  
+👉 [Link](https://www.youtube.com/watch?v=ELFORM9fmss)
 
 ---
 
@@ -94,4 +72,3 @@ Project ini dibuat untuk:
   <img src="app-preview/blogs-page.jpg" width="230">
   <img src="app-preview/upload-new-blog.jpg" width="230">
 </p>
->>>>>>> ff41c82fef40be05bf1443d91aad2c1bd49c398f

@@ -10,8 +10,8 @@
 
 Aplikasi **Blog App** yang dibangun menggunakan **Flutter**, menerapkan **Clean Architecture**, serta menggunakan **Supabase** sebagai backend (auth, database, dan storage).
 
-Project ini dibuat dengan mengikuti panduan dari channel YouTube [![Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat)]():  
-👉 [Link](https://www.youtube.com/watch?v=ELFORM9fmss)
+Project ini dibuat dengan mengikuti panduan dari channel YouTube [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat):  
+👉 [Full Video](https://www.youtube.com/watch?v=ELFORM9fmss)
 
 ---
 
